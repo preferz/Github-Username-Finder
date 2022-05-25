@@ -1,5 +1,5 @@
 # Github-Username-Finder
-I was looking for a Github username, and putting much used this to find one.
+I was looking for a Github username, and pretty much used this to find one.
 
 ## 🛠️ Installation
 
