@@ -77,7 +77,7 @@ class Username:
     def choice(self):
 
         print(f'[>] Github UserFinder')
-        print(f'[>] Made by Jordi')
+        print(f'[>] Made by prefez')
         print("-="*20)
         while True:
             try:
